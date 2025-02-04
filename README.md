@@ -10,4 +10,4 @@ A SwiftUI demo app showcasing image caching and memory management using `NSCache
 
 ## Installation
 
-1. Clone the repository
+1. Clone or fork the repository
